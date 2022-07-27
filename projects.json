@@ -1,0 +1,35 @@
+[{
+  "id": 0,
+  "title": "Сайт - портфолио",
+  "overview": "Сайт разработанный на фреймворке FastApi",
+  "description": "Небольшое веб-приложение для отслеживания демонстрации своих умений и проектов.",
+  "desc": ["Содержит страницы: главная, портфолио, резюме.", "Разработан при использовании технологий FastApi, Bootstrap, Pydantic, UviCorn."],
+  "category": "Python, FastApi, HTML, Css",
+  "icon": "bx bx-user-pin",
+  "link": "http://suganov.online",
+  "info": "suganov.online"
+},
+  {
+  "id": 1,
+  "title": "Telegram-bot",
+  "overview": "Telegram-Бот с inline функционалом",
+  "description": "Разработанный  бот осуществляет парсинг поисковой строки в youtube и выводит десять ссылок на видео в inline режиме.",
+  "desc": [],
+  "category": "Python, Aiogram, Ubuntu",
+  "icon": "bx bx-bot",
+  "link": "https://github.com/deadplut/utube_bot",
+  "info": "Ссылка на гитхаб"
+},
+  {
+  "id": 2,
+  "title": "«Крестики-нолики» ",
+  "overview": "Игра реверс на поле 10 x 10",
+  "description": "Разработаная игра «Обратные крестики-нолики» на поле 10 x 10 с правилом «Пять в ряд» – проигрывает тот, у кого получился вертикальный, горизонтальный или диагональный ряд из пяти своих фигур (крестиков/ноликов).\n\nИгра работает в режиме «человек против компьютера» в режиме консоли.",
+  "desc": [],
+  "category": "Python",
+  "icon": "bx bx-joystick-button",
+  "link": "https://github.com/deadplut/tic-tac-toe/blob/main/main.py",
+  "info": "Ссылка на гитхаб"
+}
+
+  ]

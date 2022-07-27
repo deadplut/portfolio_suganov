@@ -1,0 +1,17 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Суганов Борис: Python Backend-разработчик",
+"description": "Суганов Борис - портфолио, резюме Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Fastapi и Flask",
+"name": "Суганов Борис",
+"tag1":"Python Backend Разработчик",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/S_Boris_S",
+"facebook":"https://www.facebook.com/profile.php?id=100004907418684",
+"github":"https://github.com/deadplut",
+"email":"S.boris.workplace@yandex.ru",
+"city":"Москва"
+}
